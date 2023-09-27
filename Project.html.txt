@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <link rel="stylesheet" href="style.css">
+        <div class="headd">
+            <h1 id="B">Mr Vijju.</h1>
+            &nbsp; &nbsp; &nbsp; &nbsp;
+            &nbsp; &nbsp; &nbsp; &nbsp;
+            <a id="C" href="https://www.google.com">HOME</a>
+            <a id="C" href="https://www.google.com">ABOUT</a>
+            <a id="C" href="https://www.google.com">SERVICE</a>
+            <a id="C" href="https://www.google.com">DESIGN</a>
+            <a id="C" href="https://www.google.com">Contact</a>
+            <input type="search"  placeholder="Type To Search">
+            <button>Search</button>
+            <br><br><br><br>
+            <br><br><br><br>
+            <div class="second">
+                <h1 class="text">Web Design &</h1>
+                <h1 id="text1">Development</h1>
+                <h1 class="text">Course</h1>
+                <br>
+                <p>Lorem ipsum dolorveniam minima hic provident inventore, repellendus consequatur optio maxime
+                    vitae qui ratione.odit quae ullam tempore, totam, ipsum ad earum sequi ducimus iste. Sequi, odit accusantium?</p>
+                    <br>
+               <input type="button" id="Z" value="JOIN US">
+               <div id="third">
+                <button class="H">Login Here</button>
+                <br><br><br><br>
+                <center>
+                <input id="Q" type="text" placeholder="Enter you UserName">
+                <hr>
+                <br><br>
+                <input id="Q" type="text" placeholder="Enter your Password">
+                <hr>
+                <br><br>
+                <button id="I">Submit</button>
+                <br><br>
+                <h3>Dont have an Account?</h3>
+                </center>
+                <h4>Sign Up </h4>
+                <h3>Here</h3><br><br>
+                <p align="center">Log in With</p>
+                <div class="icon">
+                    <br>
+                    <a href="#"><ion-icon name="logo-facebook"></ion-icon></a>
+                    <a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
+                    <a href="#"><ion-icon name="logo-google"></ion-icon></a>
+                    <a href="#"><ion-icon name="logo-twitter"></ion-icon></a>
+                    <a href="#"><ion-icon name="logo-skype"></ion-icon></a>
+                </div>
+               </div>
+               </div>
+            </div>
+            <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+</body>
+</html>
